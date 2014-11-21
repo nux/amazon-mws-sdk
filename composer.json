@@ -1,5 +1,5 @@
 {
-    "name": "choomz/amazon-mws-sdk",
+    "name": "nux/amazon-mws-sdk",
     "type": "library",
     "license": "Apache-2.0",
     "description": "Amazon MWS PHP SDK",
@@ -7,8 +7,8 @@
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Valentin Ferriere",
-            "homepage": "http://www.v-labs.fr"
+            "name": "nux",
+            "homepage": "http://nux.net"
         }
     ],
 
